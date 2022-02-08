@@ -1,0 +1,27 @@
+#UserCard {
+    border: 1px solid rgb(224, 224, 224);
+    padding: 5px;
+    width: 400px;
+    margin: 30px;
+}
+
+#UserCard img {
+    width: 200px;
+    margin: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+#UserCard p {
+    border-bottom: 1px solid rgb(233, 231, 231);
+    padding-bottom: 5px;
+}
+
+#UserCard p:last-child {
+    border-bottom: none;
+}
+
+#UserCard .labels {
+    border-bottom: none;
+    font-weight: bold;
+}

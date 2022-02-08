@@ -1,0 +1,15 @@
+#SearchForm {
+    margin-top: 130px;
+}
+
+#SearchForm input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(216, 215, 215);
+    width: 50%;
+}
+
+#SearchForm input[type='submit'] {
+    width: 10%;
+    margin-left: 10px;
+}
